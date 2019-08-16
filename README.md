@@ -1,4 +1,4 @@
-![Payment](https://raw.githubusercontent.com/Essensoft/Payment/master/images/Payment-Title.png)
+
 
 ## 简介
 
@@ -16,9 +16,6 @@ Essensoft.AspNetCore.Payment.JDPay		    | [![NuGet](https://img.shields.io/nuget
 Essensoft.AspNetCore.Payment.LianLianPay    | [![NuGet](https://img.shields.io/nuget/v/Essensoft.AspNetCore.Payment.LianLianPay.svg)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.LianLianPay)
 Essensoft.AspNetCore.Payment.UnionPay       | [![NuGet](https://img.shields.io/nuget/v/Essensoft.AspNetCore.Payment.UnionPay.svg)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.UnionPay)
 Essensoft.AspNetCore.Payment.Security       | [![NuGet](https://img.shields.io/nuget/v/Essensoft.AspNetCore.Payment.Security.svg)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security)
-
-## 交流方式
-* [Payment QQ交流群: 522457525](https://shang.qq.com/wpa/qunwpa?idkey=aac56c8f02f54893267d3ac90787c1794a7687f3c31a923812a36b67c4ee6271)
 
 ## 支持渠道
 
