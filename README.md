@@ -75,10 +75,6 @@ Essensoft.AspNetCore.Payment.Security       | [![NuGet](https://img.shields.io/n
 
 ----
 
-## 打赏
-
-![Payment](https://raw.githubusercontent.com/Essensoft/Payment/master/images/QrCode.png)
-
 ---
 
 ## 致谢
